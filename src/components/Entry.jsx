@@ -11,7 +11,7 @@ function Entry(props){
     <dd>
       {props.meaning}
     </dd>
-  </div>
+  </div>;
 }
 
 export default Entry;
